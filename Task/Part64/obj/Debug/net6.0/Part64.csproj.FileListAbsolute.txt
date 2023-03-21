@@ -1,0 +1,15 @@
+D:\Задачи\Task\Part64\bin\Debug\net6.0\Part64.exe
+D:\Задачи\Task\Part64\bin\Debug\net6.0\Part64.deps.json
+D:\Задачи\Task\Part64\bin\Debug\net6.0\Part64.runtimeconfig.json
+D:\Задачи\Task\Part64\bin\Debug\net6.0\Part64.dll
+D:\Задачи\Task\Part64\bin\Debug\net6.0\Part64.pdb
+D:\Задачи\Task\Part64\obj\Debug\net6.0\Part64.csproj.AssemblyReference.cache
+D:\Задачи\Task\Part64\obj\Debug\net6.0\Part64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задачи\Task\Part64\obj\Debug\net6.0\Part64.AssemblyInfoInputs.cache
+D:\Задачи\Task\Part64\obj\Debug\net6.0\Part64.AssemblyInfo.cs
+D:\Задачи\Task\Part64\obj\Debug\net6.0\Part64.csproj.CoreCompileInputs.cache
+D:\Задачи\Task\Part64\obj\Debug\net6.0\Part64.dll
+D:\Задачи\Task\Part64\obj\Debug\net6.0\refint\Part64.dll
+D:\Задачи\Task\Part64\obj\Debug\net6.0\Part64.pdb
+D:\Задачи\Task\Part64\obj\Debug\net6.0\Part64.genruntimeconfig.cache
+D:\Задачи\Task\Part64\obj\Debug\net6.0\ref\Part64.dll

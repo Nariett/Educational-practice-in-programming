@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<ArrayOfPrice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Price>
+    <Name>ейцуейцуе</Name>
+    <ShopName>цукйукйц</ShopName>
+    <Coast>123</Coast>
+    <Rare>rare</Rare>
+  </Price>
+  <Price>
+    <Name>йцукцйук</Name>
+    <ShopName>фывафва</ShopName>
+    <Coast>1213</Coast>
+    <Rare>rare</Rare>
+  </Price>
+</ArrayOfPrice>�т</Name>
+    <ShopName>детский мир</ShopName>
+    <Coast>10</Coast>
+    <Rare>common</Rare>
+  </Price>
+  <Price>
+    <Name>автомобиль</Name>
+    <ShopName>бмв минск</ShopName>
+    <Coast>99999</Coast>
+    <Rare>epic</Rare>
+  </Price>
+  <Price>
+    <Name>ваза</Name>
+    <ShopName>раритербай</ShopName>
+    <Coast>999</Coast>
+    <Rare>epic</Rare>
+  </Price>
+  <Price>
+    <Name>айфон 13</Name>
+    <ShopName>5 элемент</ShopName>
+    <Coast>3000</Coast>
+    <Rare>epic</Rare>
+  </Price>
+  <Price>
+    <Name>ноутбук</Name>
+    <ShopName>5 элемент</ShopName>
+    <Coast>2000</Coast>
+    <Rare>common</Rare>
+  </Price>
+  <Price>
+    <Name>вентилятор</Name>
+    <ShopName>электросила</ShopName>
+    <Coast>250</Coast>
+    <Rare>common</Rare>
+  </Price>
+</ArrayOfPrice>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Suqare xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <X1>5</X1>
+  <X2>1</X2>
+  <Y1>5</Y1>
+  <Y2>1</Y2>
+  <x1>5</x1>
+  <x2>1</x2>
+  <y1>5</y1>
+  <y2>1</y2>
+  <Z1>8</Z1>
+  <Z2>1</Z2>
+  <z1>8</z1>
+  <z2>1</z2>
+</Suqare>

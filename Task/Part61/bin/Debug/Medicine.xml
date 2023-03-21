@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tablet>
+  <Medicine>
+    <name>Flustop</name>
+    <price>23</price>
+    <dosage>2</dosage>
+    <color>Red</color>
+    <consistency>Solid</consistency>
+    <testimony>Restorative</testimony>
+  </Medicine>
+  <Medicine>
+    <name>TabletB</name>
+    <price>9</price>
+    <dosage>2</dosage>
+    <color>Red</color>
+    <consistency>Liquid</consistency>
+    <testimony>RespiratoryDiseases</testimony>
+  </Medicine>
+  <Medicine>
+    <name>ACC</name>
+    <price>12</price>
+    <dosage>3</dosage>
+    <color>White</color>
+    <consistency>Liquid</consistency>
+    <testimony>Restorative</testimony>
+  </Medicine>
+  <Medicine>
+    <name>Moris</name>
+    <price>20</price>
+    <dosage>1</dosage>
+    <color>White</color>
+    <consistency>Solid</consistency>
+    <testimony>Restorative</testimony>
+  </Medicine>
+  <Medicine>
+    <name>TabletX</name>
+    <price>99</price>
+    <dosage>10</dosage>
+    <color>Yellow</color>
+    <consistency>Liquid</consistency>
+    <testimony>RespiratoryDiseases</testimony>
+  </Medicine>
+</Tablet>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfPrice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Price>
+    <name>рыба</name>
+    <shopName>виталюр</shopName>
+    <price>100</price>
+    <rare>rare</rare>
+    <Name>рыба</Name>
+    <ShopName>виталюр</ShopName>
+    <Coast>100</Coast>
+    <Rare>rare</Rare>
+  </Price>
+  <Price>
+    <name>Мясо</name>
+    <shopName>евро</shopName>
+    <price>100</price>
+    <rare>rare</rare>
+    <Name>Мясо</Name>
+    <ShopName>евро</ShopName>
+    <Coast>100</Coast>
+    <Rare>rare</Rare>
+  </Price>
+</ArrayOfPrice>
+</ArrayOfPrice>

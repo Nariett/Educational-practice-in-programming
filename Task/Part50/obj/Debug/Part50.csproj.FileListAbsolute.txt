@@ -1,0 +1,8 @@
+D:\Задачи\Task\Part50\bin\Debug\Part50.exe.config
+D:\Задачи\Task\Part50\bin\Debug\Part50.exe
+D:\Задачи\Task\Part50\bin\Debug\Part50.pdb
+D:\Задачи\Task\Part50\obj\Debug\Part50.csproj.AssemblyReference.cache
+D:\Задачи\Task\Part50\obj\Debug\Part50.csproj.SuggestedBindingRedirects.cache
+D:\Задачи\Task\Part50\obj\Debug\Part50.csproj.CoreCompileInputs.cache
+D:\Задачи\Task\Part50\obj\Debug\Part50.exe
+D:\Задачи\Task\Part50\obj\Debug\Part50.pdb
