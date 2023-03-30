@@ -1,0 +1,15 @@
+D:\Задачи\Task\MainForm2\bin\Debug\MainForm2.exe.config
+D:\Задачи\Task\MainForm2\bin\Debug\MainForm2.exe
+D:\Задачи\Task\MainForm2\bin\Debug\MainForm2.pdb
+D:\Задачи\Task\MainForm2\obj\Debug\MainForm2.csproj.AssemblyReference.cache
+D:\Задачи\Task\MainForm2\obj\Debug\MainForm2.csproj.SuggestedBindingRedirects.cache
+D:\Задачи\Task\MainForm2\obj\Debug\MainForm2.Form1.resources
+D:\Задачи\Task\MainForm2\obj\Debug\MainForm2.Properties.Resources.resources
+D:\Задачи\Task\MainForm2\obj\Debug\MainForm2.csproj.GenerateResource.cache
+D:\Задачи\Task\MainForm2\obj\Debug\MainForm2.csproj.CoreCompileInputs.cache
+D:\Задачи\Task\MainForm2\obj\Debug\MainForm2.exe
+D:\Задачи\Task\MainForm2\obj\Debug\MainForm2.pdb
+D:\Задачи\Task\MainForm2\obj\Debug\MainForm2.FormOne.resources
+D:\Задачи\Task\MainForm2\obj\Debug\MainForm2.FormTwo.resources
+D:\Задачи\Task\MainForm2\obj\Debug\MainForm2.FormThree.resources
+D:\Задачи\Task\MainForm2\obj\Debug\MainForm2.FormFour.resources

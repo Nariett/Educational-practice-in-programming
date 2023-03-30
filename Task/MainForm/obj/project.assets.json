@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Задачи\\Task\\Part67\\Part67.csproj",
+      "projectUniqueName": "D:\\Задачи\\Task\\MainForm\\MainForm.csproj",
       "projectName": "MainForm",
-      "projectPath": "D:\\Задачи\\Task\\Part67\\Part67.csproj",
+      "projectPath": "D:\\Задачи\\Task\\MainForm\\MainForm.csproj",
       "packagesPath": "C:\\Users\\samsi\\.nuget\\packages\\",
       "outputPath": "D:\\Задачи\\Task\\MainForm\\obj\\",
       "projectStyle": "PackageReference",

@@ -16,3 +16,6 @@ D:\Задачи\Task\MainForm\obj\Debug\net6.0-windows\refint\MainForm.dll
 D:\Задачи\Task\MainForm\obj\Debug\net6.0-windows\MainForm.pdb
 D:\Задачи\Task\MainForm\obj\Debug\net6.0-windows\MainForm.genruntimeconfig.cache
 D:\Задачи\Task\MainForm\obj\Debug\net6.0-windows\ref\MainForm.dll
+D:\Задачи\Task\MainForm\obj\Debug\net6.0-windows\MainForm.TaskFour.resources
+D:\Задачи\Task\MainForm\obj\Debug\net6.0-windows\MainForm.TaskThree.resources
+D:\Задачи\Task\MainForm\obj\Debug\net6.0-windows\MainForm.TaskTwo.resources
