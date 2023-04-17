@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="TaskFive.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TaskFour.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TaskOne.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TaskSix.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TaskThree.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TaskTwo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TaskFive.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TaskFour.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TaskOne.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TaskSix.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TaskThree.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TaskTwo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

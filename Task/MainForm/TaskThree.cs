@@ -24,7 +24,7 @@ namespace MainForm
             double dx = Convert.ToDouble(this.textBox3.Text);
             for (double x = x0; x <= xk; x += dx)
             {
-                var result = Math.Pow(Math.Log10(Math.Sin((Math.Pow(x, 3) + 0.0025))), 1.5) + 0.8 * Math.Pow(10, -3);
+                var result = Math.Sin(x);
                 this.textBox4.Text += $"При x = {x} y = {result.ToString()}" + Environment.NewLine;
             }
         }
