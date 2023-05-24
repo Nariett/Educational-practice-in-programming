@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApp.CartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cart" Height="450" Width="600">
+    <Grid>
+        <DataGrid x:Name="cartGrid" AutoGenerateColumns="False" CanUserAddRows="False" ItemsSource="{Binding CartItems}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название" Binding="{Binding ProductName}" />
+                <DataGridTextColumn Header="Измеритель" Binding="{Binding Unit}" />
+                <DataGridTextColumn Header="Цена" Binding="{Binding Price}" />
+                <DataGridTextColumn Header="Количество" Binding="{Binding Quantity}" />
+                <DataGridTextColumn Header="Итого" Binding="{Binding Itog}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

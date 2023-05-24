@@ -53,7 +53,7 @@ namespace WFPForm {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WFPForm;component/tasksix.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WFPForm;V1.0.0.0;component/tasksix.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\TaskSix.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

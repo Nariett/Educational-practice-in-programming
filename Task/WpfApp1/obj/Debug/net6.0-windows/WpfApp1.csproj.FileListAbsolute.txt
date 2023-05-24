@@ -1,0 +1,7 @@
+D:\Задачи\Task\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\Задачи\Task\WpfApp1\obj\Debug\net6.0-windows\ExpenseItHome.g.cs
+D:\Задачи\Task\WpfApp1\obj\Debug\net6.0-windows\ExpenseReport.g.cs
+D:\Задачи\Task\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Задачи\Task\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+D:\Задачи\Task\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+D:\Задачи\Task\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref

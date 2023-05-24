@@ -77,7 +77,7 @@ namespace WFPForm {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WFPForm;component/taskfour.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WFPForm;V1.0.0.0;component/taskfour.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\TaskFour.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
